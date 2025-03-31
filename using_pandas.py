@@ -1,5 +1,7 @@
 import pandas as pd
 
+# https://medium.com/@rganesh0203/flatten-json-format-different-methods-using-python-1d4357e446cd
+
 # # Example JSON data with nested arrays
 # data = {
 #     "id": 1,
@@ -38,7 +40,7 @@ data = [
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "John Doe",
         "address": {
             "street": "123 Main St",
