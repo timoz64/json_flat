@@ -1,0 +1,10 @@
+[project]
+name = "flatten"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flatten-json>=0.1.14",
+    "pandas>=2.2.3",
+]
